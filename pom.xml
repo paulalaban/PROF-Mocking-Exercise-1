@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>es.grise.upm.profundizacion.tema8</groupId>
-	<artifactId>PROF</artifactId>
+	<artifactId>PROF-Mocking</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>PROF</name>
+	<name>PROF-Mocking</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
