@@ -107,7 +107,7 @@ public class SubscriptionServiceTest {
 		this.servicio.addSubscriber(this.cliente1);
 		this.servicio.removeSubscriber(this.cliente1);
 		this.servicio.sendMessage(this.mensaje);	
-		verify(this.cliente1,times(ONE_TIME)).receiveMessage(this.mensaje);		
+		verify(this.cliente1,never()).receiveMessage(this.mensaje);		
 	}
 	
 }
