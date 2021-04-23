@@ -1,4 +1,4 @@
-package es.grise.upm.profundizacion.tema8;
+package es.grise.upm.profundizacion.mocking_ejercicio_1;
 
 public interface Client {
 
